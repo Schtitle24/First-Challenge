@@ -1,5 +1,5 @@
 This is my first challenge in my UT Tech Bootcamp
-I have been provided a starter code and tasked with the following user story
+I have been provided a starter code and tasked with the following user story to help me improve my code. Making it prettier and easier to work with for those that wish to contribute to my work. 
 
 User Story:
 AS A marketing agency

@@ -22,6 +22,6 @@ THEN I find a concise, descriptive title
 I do hope you enjoy! 
 https://schtitle24.github.io/First-Challenge/
 
-
+![challenge-01](https://github.com/Schtitle24/First-Challenge/assets/153530625/463e0b0a-d3f8-45cd-923e-cf61a3cec60e)
 
 </Schtitle24/>

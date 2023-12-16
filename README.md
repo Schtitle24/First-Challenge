@@ -1,5 +1,5 @@
 This is my first challenge in my UT Tech Bootcamp
-I have been provided a starter code and tasked with the following user story
+I have been provided a starter code and tasked with the following user story to help me improve my code. Making it prettier and easier to work with for those that wish to contribute to my work. 
 
 User Story:
 AS A marketing agency
@@ -22,6 +22,11 @@ THEN I find a concise, descriptive title
 I do hope you enjoy! 
 https://schtitle24.github.io/First-Challenge/
 
+![challenge-01](https://github.com/Schtitle24/First-Challenge/assets/153530625/463e0b0a-d3f8-45cd-923e-cf61a3cec60e)
 
+Devloped with:
+Git
+HTML
+CSS
 
 </Schtitle24/>
